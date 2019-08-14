@@ -1,0 +1,22 @@
+{
+  "name": "awa-markdown-loader",
+  "version": "1.0.0",
+  "description": "awa-ui的markdown展示解析器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshCodeWork/awa-markdown-loader.git"
+  },
+  "keywords": [
+    "awa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshCodeWork/awa-markdown-loader/issues"
+  },
+  "homepage": "https://github.com/AshCodeWork/awa-markdown-loader#readme"
+}
